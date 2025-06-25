@@ -25,7 +25,7 @@ A sleek, modern, and lightweight real-time Markdown editor built with vanilla Ja
 ## 📸 Screenshots
 
  
- `![Screenshot](assets/img/Screenshot%202025-06-25%20131938.png)`
+ ![Markdown Editor Screenshot](assets/img/Screenshot%202025-06-25%20131938.png)
 
 ---
 
