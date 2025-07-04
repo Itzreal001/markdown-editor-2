@@ -1,0 +1,29 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "A sleek, modern, and lightweight real-time Markdown editor built with vanilla JavaScript and minimal HTML — no backend required. Features include live preview, light/dark mode, PDF export, and persistent local storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.3",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  },
+  "dependencies": {
+    "html2pdf.js": "^0.10.3",
+    "marked": "^16.0.0"
+  },
+  "scripts": {
+  "start": "webpack serve",
+  "build": "webpack"
+}
+
+}
